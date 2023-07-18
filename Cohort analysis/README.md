@@ -1,5 +1,5 @@
 # Анализ убытков приложения ProcrastinatePRO+
-
+[ipynb](https://github.com/gaidds/portfolio/blob/main/Cohort%20analysis/ltv_roi_retention.ipynb)
 
 ## Описание проекта
 
