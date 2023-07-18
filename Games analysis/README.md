@@ -1,4 +1,5 @@
 # Изучение закономерностей, определяющих успешность игр
+Ссылка на проект:
 [ipynb](https://github.com/gaidds/portfolio/blob/main/Games%20analysis/games_analysis_project.ipynb)
 
 ## Описание проекта
