@@ -1,3 +1,7 @@
+## Portfolio
+
+Здесь собрана часть реализованных мною проектов.
+
 | #| Наименование проекта                                 | Описание      |  Стек               |
 |:-|:---------------                                      | :-------------|:---------------|
 |1 | [Анализ убытков приложения ProcrastinatePRO+](https://github.com/gaidds/portfolio/tree/main/Cohort%20analysis)          |Проведен когортный анализ: LTV, CAC, ROI, Retention rate, DAU, WAU, MAU и т.д. |Python, Pandas, Matplotlib, SciPy, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn|
